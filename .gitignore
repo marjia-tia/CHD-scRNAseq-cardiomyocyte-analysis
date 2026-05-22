@@ -1,0 +1,9 @@
+data/
+scrnaseq_env/
+cache/
+__pycache__/
+.vscode/
+*.h5ad
+*.tar
+*.gz
+.DS_Store
