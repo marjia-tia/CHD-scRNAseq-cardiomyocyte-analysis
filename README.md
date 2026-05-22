@@ -9,7 +9,7 @@ PAIVS cardiomyocytes show a maturation arrest — 80.22% remain in immature stat
 ## Dataset
 - Source: GEO GSE157157
 - 11,263 human iPSC-derived cardiomyocytes
-- 6 Control + 6 PAIVS patient samples
+- 2 Control + 2 PAIVS patients (hiPSC-derived cardiomyocytes)
 
 ## Pipeline
 1. Data loading and quality control
